@@ -57,10 +57,10 @@
 
 
 import React, { useEffect, useState } from 'react';
-import s2 from '../../../assets/corosolImg/2.png';
-import s3 from '../../../assets/corosolImg/3.png';
-import s1 from '../../../assets/corosolImg/1.png';
-import s4 from '../../../assets/corosolImg/4.png';
+import s2 from '../../../assets/corosolImg/7.webp';
+import s3 from '../../../assets/corosolImg/6.webp';
+import s1 from '../../../assets/corosolImg/5.webp';
+import s4 from '../../../assets/corosolImg/4.webp';
 import CircleCategory from './CircleCategory';
 import WomenCategoryGrid from './WomenCategoryGrid';
 import MenCategoryGrid from './MenCategoryGrid';

@@ -32,7 +32,7 @@ function MenCollectionGrid() {
   return (
     <div className="px-4 py-8 max-w-6xl mx-auto">
       <h2 className="text-center text-2xl text-black md:text-3xl mb-6">
-        Shop By Collection Women
+        Shop By Collection Men
       </h2>
 
       {/* Mobile View - Swiper */}

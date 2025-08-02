@@ -126,7 +126,7 @@ const responsive = {
 <>
 
 
-<Carousel autoPlay autoPlaySpeed={1500} showDots swipeable infinite removeArrowOnDeviceType={["tablet", "mobile","desktop", "superLargeDesktop"]} responsive={responsive}>
+<Carousel autoPlay className='min-h-[70vh] w-full' autoPlaySpeed={1500} showDots swipeable infinite removeArrowOnDeviceType={["tablet", "mobile","desktop", "superLargeDesktop"]} responsive={responsive}>
   <div>
     <img className="max-h-[70vh] min-w-full" src="../../../assets/corosolImg/4.webp" alt="" />
   </div>
